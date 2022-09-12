@@ -7,7 +7,7 @@ website:
     background: "purple"
     right:
       - about.qmd
-      - text: assignments
+      - text: assignments 
         href: index.qmd
       - text: lists
           
