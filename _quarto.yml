@@ -8,6 +8,7 @@ website:
     right:
       - about.qmd
       - text: assignments 
+      - href: assignment.qmd
         href: index.qmd
       - text: lists
           
